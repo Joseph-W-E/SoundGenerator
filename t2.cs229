@@ -1,0 +1,14 @@
+cs229
+
+# A short sound file, created in Notepad in Windows
+
+Channels	4
+
+BITres      16
+
+SampleRate  4
+
+StartData
+10000 4 32 4231
+0 0 0 0
+-13 13 25 1234
